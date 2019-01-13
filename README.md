@@ -1,2 +1,1 @@
-# btfd
-Algo trading experiments graveyard
+And then the bubble popped...
